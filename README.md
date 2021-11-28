@@ -3,6 +3,6 @@ Esto es un formulario HTML sencillo, que registra y almacena datos a la base de 
 
 ## ESTO ES UN TRABAJO FORMULARIO HMTL SENCILLO
 ---
-## SCREENSHOT
+## screenshot
 ---
 ![CAPTURA DE PANTALLA](http://imgfz.com/i/p49AobF.jpeg)
